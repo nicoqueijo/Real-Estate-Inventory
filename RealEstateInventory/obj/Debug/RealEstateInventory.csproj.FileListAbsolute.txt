@@ -1,0 +1,13 @@
+c:\users\nicoq\documents\visual studio 2017\Projects\RealEstateInventory\RealEstateInventory\bin\Debug\RealEstateInventory.exe.config
+c:\users\nicoq\documents\visual studio 2017\Projects\RealEstateInventory\RealEstateInventory\bin\Debug\RealEstateInventory.exe
+c:\users\nicoq\documents\visual studio 2017\Projects\RealEstateInventory\RealEstateInventory\bin\Debug\RealEstateInventory.pdb
+c:\users\nicoq\documents\visual studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.csprojResolveAssemblyReference.cache
+c:\users\nicoq\documents\visual studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.Properties.Resources.resources
+c:\users\nicoq\documents\visual studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.csproj.GenerateResource.Cache
+c:\users\nicoq\documents\visual studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.exe
+c:\users\nicoq\documents\visual studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.pdb
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.MainForm.resources
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.ApartmentForm.resources
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.ShopForm.resources
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.SingleFamilyHomeForm.resources
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\RealEstateInventory\RealEstateInventory\obj\Debug\RealEstateInventory.WarehouseForm.resources
